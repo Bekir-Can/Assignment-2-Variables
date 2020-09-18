@@ -1,0 +1,16 @@
+package day_3Assignment2Varia;
+
+public class Question1 {
+
+	public static void main(String[] args) {
+		
+		int count;
+		
+		count = 44;
+			
+		System.out.println(count);
+		
+		
+	}
+
+}
