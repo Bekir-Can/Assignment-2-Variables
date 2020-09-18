@@ -1,0 +1,15 @@
+package day_3Assignment2Varia;
+
+public class Question2 {
+
+	public static void main(String[] args) {
+
+
+		String message ;
+		message = "Cybertek";
+		
+		System.out.println(message);
+
+	}
+
+}
