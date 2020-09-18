@@ -1,0 +1,23 @@
+package day_3Assignment2Varia;
+
+public class question_6 {
+
+	public static void main(String[] args) {
+
+
+		String k1 = "Bob, " ;
+		
+		String k2 = "Jill, " ;
+		
+		String k3 = "Betty, " ;
+		
+		String k4 = "Herb, " ;
+		
+		String k5 = "James, " ;
+				
+		System.out.println(k1 + k2 + k3 + k4 + k5);
+		
+
+	}
+
+}
