@@ -1,0 +1,16 @@
+package day_3Assignment2Varia;
+
+public class question_4 {
+
+	public static void main(String[] args) {
+		
+		String word = "Homework";
+		
+		String msg = " Today's World-of-the-day is:";
+		
+		System.out.println(msg + word);
+		
+		
+	}
+
+}
