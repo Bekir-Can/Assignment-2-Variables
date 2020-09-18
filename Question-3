@@ -1,0 +1,17 @@
+package day_3Assignment2Varia;
+
+public class question_3 {
+
+
+	public static void main(String[] args) {
+		
+		
+		int num = 8;
+		
+		double cost = 22.1;
+		
+		System.out.println(num + " " + cost);
+
+	}
+
+}
