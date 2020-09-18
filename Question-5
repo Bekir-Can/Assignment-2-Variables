@@ -1,0 +1,16 @@
+package day_3Assignment2Varia;
+
+public class question_5 {
+
+	public static void main(String[] args) {
+		
+	int first_is = 18;
+	
+	int second = 111;
+	
+	System.out.println("first_is" + " " + first_is + " " + "second =" + second );
+		
+
+	}
+
+}
